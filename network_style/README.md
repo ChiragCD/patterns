@@ -15,5 +15,5 @@ As a result of this setup, each node is a parent of its own network, represented
 Each new "generation" is less likely to reproduce, to account for the increasing size of the generation.
 Node's circle radius is proportional to its expand_probability.
 
-Go ahead and experiment with options, and with the program itself. Feel free to send me screenshots, and PR modified versions into this folder. Suggestions
-are welcome, please contribute toward solving the issues.
+Go ahead and experiment with options, and with the program itself. Feel free to send me screenshots, and PR modified versions into this folder. Any fun patterns
+you made can be PR'd by adding your parameters, with a name, in the examples.py database. Suggestions are welcome, please contribute toward solving the issues.
