@@ -23,6 +23,8 @@ Node's circle radius is proportional to its expand_probability.
 Go ahead and experiment with options, and with the program itself. Feel free to send me screenshots, and PR modified versions into this folder. Any fun patterns
 you made can be PR'd by adding your parameters, with a name, in the examples.py database. Suggestions are welcome, please contribute toward solving the issues.
 
-Example:
+Examples:
 
-![Starburst](/network_style/starburst_examples/starburst-greenyellow.png)
+![Starburst](/starburst_examples/starburst-violet.png)
+
+![Starburst](/starburst_examples/starburst-greenyellow.png)
