@@ -9,7 +9,8 @@ Uses pygame for display,
      random to generate the pattern
      time as an option for slowing the program
 
-The only external module here is pygame, this can be installed with ## arthur_dent@hitchhiker's_guide:~$ pip3 install pygame
+The only external module here is pygame, this can be installed with 
+terminal:~$ pip3 install pygame
 The version used here is 1.9.4
 
 The program starts with a single parent node, who, with each iteration, has an expand_probability of creating and connecting to a node, within expand_range,
